@@ -1,32 +1,29 @@
 # Project-no.-1
 
-Weather App - API Integration
+# Weather App - API Integration
 
-🎯 Objective
-
+## 🎯 Objective
 To build a responsive webpage that fetches and displays real-time weather data using a public API.
 
-🚀 Key Activities
+## 🚀 Key Activities
+- Integrated with the OpenWeatherMap API to fetch weather data.
+- Built a simple, responsive UI using HTML and CSS.
+- Used JavaScript and Fetch API to dynamically load and display data.
+- Handled errors for invalid city inputs.
 
-Integrated with the OpenWeatherMap API to fetch weather data.
-Built a simple, responsive UI using HTML and CSS.
-Used JavaScript and Fetch API to dynamically load and display data.
-Handled errors for invalid city inputs.
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript (Fetch API)
+- OpenWeatherMap API
 
-🛠️ Technologies Used
+## 📦 How to Use
+1. Replace `'YOUR_API_KEY'` in `script.js` with your own OpenWeatherMap API key.
+2. Open `index.html` in your browser.
+3. Enter a city name and click "Get Weather" to view the current weather conditions.
 
-HTML5
-CSS3
-JavaScript (Fetch API)
-OpenWeatherMap API
-📦 How to Use
-
-Replace 'YOUR_API_KEY' in script.js with your own OpenWeatherMap API key.
-Open index.html in your browser.
-Enter a city name and click "Get Weather" to view the current weather conditions.
-
-📁 Project Structure
-
+## 📁 Project Structure
+```
 weather_api_project/
 ├── index.html
 ├── style.css
