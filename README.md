@@ -1,4 +1,4 @@
-# Project-no.-1
+# Project no. 1
 
 # Weather App - API Integration
 
