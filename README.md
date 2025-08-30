@@ -1,4 +1,5 @@
 # Project-no.-1
+
 Weather App - API Integration
 🎯 Objective
 To build a responsive webpage that fetches and displays real-time weather data using a public API.
